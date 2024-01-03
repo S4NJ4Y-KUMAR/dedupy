@@ -2,8 +2,8 @@
 
 <p id="description">Dedupy is a basic tool for removing duplicate links after enumerating sites</p>
 <p>And if you are wonderning why the name of the tool is dedupy, it is simply "deduping"+"py"="dedupy" deduping means removing duplicates</p>
+<p align="left"><img src="https://img.shields.io/badge/Profile_Views-0-green" alt="shields"></p>
 
-  
   
 <h2>🧐 Features</h2>
 
