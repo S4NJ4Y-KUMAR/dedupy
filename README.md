@@ -12,6 +12,8 @@ Here're some of the project's best features:
 Takes an input file and generates a output file containing unique links
 <br>
 
+<img src="https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA" alt="project-screenshot" width="400" height="400/">
+
 <h2>🛠️ Installation and Usage:</h2>
 
 <p>1. Pip installation</p>
